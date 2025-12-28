@@ -43,7 +43,7 @@ Login::Login(QWidget *parent)
     FrameLogin->setLineWidth(4);
     FrameLogin->setMidLineWidth(2);
     FrameLogin->setFrameShape(QFrame::Panel);
-
+    FrameLogin->setStyleSheet("background-color: #FFD780;");
 
     Label_text = new QLabel("Veuillez Selectionner le compte", FrameLogin);
     Label_text->setFont(font);
@@ -87,7 +87,7 @@ Login::Login(QWidget *parent)
     QLineEdit *LineAge = new QLineEdit;
 
     QPushButton *BoutonEnregistre = new QPushButton("Enregistre");
-    QPushButton *BoutonRetour = new QPushButton("Reture");
+    QPushButton *BoutonRetour = new QPushButton("Retour");
 
     QFormLayout *LayoutPageEnregistrerClient = new QFormLayout(pageClient);
     LayoutPageEnregistrerClient->addRow("votre Nom : ", LineNom);

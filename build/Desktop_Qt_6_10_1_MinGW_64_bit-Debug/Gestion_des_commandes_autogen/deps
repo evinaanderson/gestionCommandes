@@ -632,19 +632,19 @@ Gestion_des_commandes_autogen/timestamp: \
 	C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
 	C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/CMakeLists.txt \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qtc/package-manager/maintenance_tool_provider.cmake \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Gestion_des_commandes_autogen/moc_predefs.h \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/login.cpp \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/login.h \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/main.cpp \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/mainwindow.cpp \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/mainwindow.h \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/resources.qrc \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/login.ui \
-	C:/Users/Evina\ Anderson/Downloads/Gestion_des_commandes/mainwindow.ui \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/CMakeLists.txt \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qtc/package-manager/maintenance_tool_provider.cmake \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Gestion_des_commandes_autogen/moc_predefs.h \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/login.cpp \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/login.h \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/main.cpp \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/mainwindow.cpp \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/mainwindow.h \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/resources.qrc \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/login.ui \
+	C:/Users/BK/Desktop/recupGitHup/gestionCommandes/mainwindow.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe
