@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>catalogue/Personnel/finish-svgrepo-com.svg</file>
+        <file>catalogue/Personnel/pause.svg</file>
+        <file>catalogue/Personnel/connexion_personnel.svg</file>
+        <file>catalogue/Personnel/voir_profile.svg</file>
+        <file>catalogue/Personnel/commenter.svg</file>
+        <file>catalogue/Personnel/voir_toutes_ancien_commande.svg</file>
+        <file>catalogue/Personnel/commande_en_cour.svg</file>
+        <file>catalogue/Personnel/Mettre_commande_prioriter.svg</file>
+        <file>catalogue/Personnel/chef-svgrepo-com.svg</file>
+        <file>catalogue/Personnel/statistique_temps.svg</file>
+        <file>catalogue/background/Messenger_creation_1763473684824835.jpeg</file>
+        <file>catalogue/background/Messenger_creation_852395824317871.jpeg</file>
+        <file>catalogue/background/Messenger_creation_4382096952070907.jpeg</file>
+        <file>catalogue/client/Profile.svg</file>
+        <file>catalogue/client/rechercher_menu.svg</file>
+        <file>catalogue/client/Modifier_commande.svg</file>
+        <file>catalogue/client/commander.svg</file>
+        <file>catalogue/client/consulter_commande.svg</file>
+        <file>catalogue/client/Supprimer_client.svg</file>
+        <file>catalogue/client/Supprimer.svg</file>
+        <file>catalogue/client/Modifier_client.svg</file>
+        <file>catalogue/client/Effectuer_payement.svg</file>
+        <file>catalogue/client/restaurant-svgrepo-com.svg</file>
+        <file>catalogue/client/ajouter.svg</file>
+        <file>catalogue/client/Nouveau_client.svg</file>
+    </qresource>
+</RCC>
